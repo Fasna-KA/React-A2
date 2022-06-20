@@ -1,5 +1,5 @@
 import './App.css';
-import Form from './Assignment2/formHandler';
+
 import FormDisplay from './Assignment2/form'
 
 
